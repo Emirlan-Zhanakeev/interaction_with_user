@@ -1,6 +1,6 @@
-# registration_remake
+# Interaction with user
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
